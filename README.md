@@ -5,3 +5,7 @@ Các ảnh
 
 <img width="667" height="951" alt="image" src="https://github.com/user-attachments/assets/35788ab3-ab3d-4120-bd34-9ca3850e1173" />
 
+<img width="563" height="935" alt="image" src="https://github.com/user-attachments/assets/c5f2dc33-5b37-4acd-9c13-660f798e1746" />
+
+<img width="1679" height="743" alt="image" src="https://github.com/user-attachments/assets/4ae4407f-a423-4325-9be6-9f7702bdcc56" />
+
